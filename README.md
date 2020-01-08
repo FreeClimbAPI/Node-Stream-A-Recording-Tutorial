@@ -1,4 +1,4 @@
-# Node - Stream a Recording Tutorial
+# Node - Stream Recording Tutorial
 
 This project serves as a guide to help you build an application with FreeClimb. View this tutorial on [FreeClimb.com](https://docs.freeclimb.com/docs/stream-a-recording#section-javascript). Specifically, the project will:
 
