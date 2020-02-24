@@ -1,6 +1,6 @@
 # Node - Stream Recording Tutorial
 
-This project serves as a guide to help you build an application with FreeClimb. View this tutorial on [FreeClimb.com](https://docs.freeclimb.com/docs/stream-a-recording#section-javascript). Specifically, the project will:
+This project serves as a guide to help you build an application with FreeClimb. View this tutorial on [FreeClimb.com](https://docs.freeclimb.com/docs/stream-a-recording#section-nodejs). Specifically, the project will:
 
 - Create a file stream of a recorded file made by FreeClimb. Recordings are created when calls send a PerCL command to FreeClimb to record. They can be seen in the recordings tab in the dashboard.   
 
